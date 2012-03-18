@@ -1,0 +1,20 @@
+PROJECT NAME: CAREER GUIDE
+
+DEVELOPER NAME:GANESHPRASAD.T.P
+
+DEVELOPMENT PLATFORM:Qt
+
+IDEA OWNER:GANESHPRASAD.T.P
+
+PROJECT DESCRIPTION:
+
+This application is a documentation type of application which gives career options 
+
+available after 10th standard,12th standard,Engineering,M.B.B.S,B.sc,B.com,B.A etc… 
+
+just tapping on the option gives options available on doing that degree.
+
+It solves the problems of many who are confused about the career options.
+
+
+PROJECT STATUS:COMPLETED
